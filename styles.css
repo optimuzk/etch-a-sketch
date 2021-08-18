@@ -93,13 +93,9 @@ select:hover{
     display: flex;
     flex-flow: row wrap;
 }
-#squares{
+.squares{
     background-color: rgb(255, 255, 255);
 }
-#squares:hover{
-
-}
-
 
 #footer{
     width: 100%;
